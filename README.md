@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Nasra 👋
 
-- 🌱 **Atualmente, estou estudando Python.**
+- 🌱 **Python Developer.**
 
 <div align="center">
   <a href="https://github.com/GuilhermeNasra">
